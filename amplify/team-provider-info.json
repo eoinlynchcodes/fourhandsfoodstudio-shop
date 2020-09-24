@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-shopforfourhands-prod-142111-authRole",
+            "UnauthRoleArn": "arn:aws:iam::942566643868:role/amplify-shopforfourhands-prod-142111-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::942566643868:role/amplify-shopforfourhands-prod-142111-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-shopforfourhands-prod-142111-deployment",
+            "UnauthRoleName": "amplify-shopforfourhands-prod-142111-unauthRole",
+            "StackName": "amplify-shopforfourhands-prod-142111",
+            "StackId": "arn:aws:cloudformation:eu-west-1:942566643868:stack/amplify-shopforfourhands-prod-142111/d24061b0-fe68-11ea-bed9-027df2f3014c",
+            "AmplifyAppId": "d1sdb7pdi9xtoi"
+        },
+        "categories": {
+            "auth": {
+                "shopforfourhandsf277d2b8": {}
+            }
+        }
+    }
+}

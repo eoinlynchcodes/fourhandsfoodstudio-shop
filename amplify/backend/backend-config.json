@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"shopforfourhandsf277d2b8": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

@@ -1,6 +1,6 @@
 {
     "identityPoolName": "shopforfourhandsf277d2b8_identitypool_f277d2b8",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "shopfof277d2b8",
     "userPoolName": "shopforfourhandsf277d2b8_userpool_f277d2b8",
     "autoVerifiedAttributes": [

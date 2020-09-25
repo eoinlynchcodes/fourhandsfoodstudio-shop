@@ -34,11 +34,14 @@ const App = () => {
         <Route path="/checkout">
           <Checkout />
         </Route>
-        <Route exact path="/books">
+        <Route exact path="/products">
           <Books />
         </Route>
+        <Route path="/takeaway">
+          <Checkout />
+        </Route>
         <Route
-          path="/books/:id"
+          path="/products/:id"
           children={<BookDetails></BookDetails>}>
         </Route>
         <Route path="/admin">

@@ -69,7 +69,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-shopforfourhands-prod-142111-deployment",
-					"S3Key": "amplify-builds/processPayment-55662f386c4e54495148-build.zip"
+					"S3Key": "amplify-builds/processPayment-6647706b364375474268-build.zip"
 				}
 			}
 		},

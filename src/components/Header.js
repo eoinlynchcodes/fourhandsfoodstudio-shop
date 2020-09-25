@@ -5,13 +5,16 @@ const Header = () => {
     return (
         <header className="main-head">
             <nav>
-                <h1 id="logo">Wisdomly</h1>
+                <h1 id="logo">4 Hands Food Studio</h1>
                 <ul>
                     <li>
                         <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/books">Books</Link>
+                        <Link to="/products">Products</Link>
+                    </li>
+                    <li>
+                        <Link to="/takeaway">Takeaway</Link>
                     </li>
                     <li>
                         <Link to="/cart">Cart</Link>
